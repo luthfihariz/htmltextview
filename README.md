@@ -6,4 +6,4 @@ In this version (0.1) it will support :
 - <ul>
 
 
-[HtmlTextView Sample](https://s11.postimg.org/k5vwxn7r7/device_2016_10_29_114544.png)](https://s11.postimg.org/k5vwxn7r7/device_2016_10_29_114544.png)
+[![device-2016-10-29-114544.png](https://s10.postimg.org/vvmtujzx5/device_2016_10_29_114544.png)](https://postimg.org/image/wl5m6x0gl/)
